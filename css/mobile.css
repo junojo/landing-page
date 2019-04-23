@@ -1,0 +1,7 @@
+body {
+  font-family: 'Caveat Brush', cursive;
+}
+.jumbo-bg {
+  background-image: url(../img/garrett-patz-1517833-unsplash.jpg) no-repeat !important;
+  background-size: cover;
+}

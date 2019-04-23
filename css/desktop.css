@@ -1,0 +1,51 @@
+body {
+  font-family: 'Caveat Brush', cursive;
+}
+
+h1, h2, h3 {
+  color
+}
+
+.jumbo-bg {
+  background-image: url(../img/garrett-patz-1517833-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  z-index: -2;
+}
+
+.jumbotron {
+    background-image: url(../img/garrett-patz-1517833-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    background-position: center center;
+}
+
+.navbar-right {
+    float: right!important;
+    margin-right: -15px;
+}
+
+.newsletter {
+  height: 300px;
+}
+
+.footer {
+  height: 150px;
+  background-color: gray;
+  color: white;
+  padding: 50px;
+  font-size: 30px;
+}
+
+.benefits {
+  height: 500px;
+  padding: 50px;
+}
+
+.carousel-inner {
+  height: 350px;
+  background-color: gray;
+  padding: 50px;
+}
